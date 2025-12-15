@@ -1,6 +1,4 @@
 @use "mixins";
 
-@include mixins.font("Montserrat", normal, 400, "https://cdn.alexsab.ru/b/soueast/fonts/Montserrat-Regular.woff2");
-@include mixins.font("Montserrat", normal, 400, "https://cdn.alexsab.ru/b/soueast/fonts/Montserrat-Medium.woff2");
-@include mixins.font("Montserrat", normal, 600, "https://cdn.alexsab.ru/b/soueast/fonts/Montserrat-SemiBold.woff2");
-@include mixins.font("Montserrat", normal, 700, "https://cdn.alexsab.ru/b/soueast/fonts/Montserrat-Bold.woff2");
+/* @include mixins.font("Gilroy", normal, 300, "/fonts/gilroy-light.woff2");
+@include mixins.font("Gilroy", normal, 800, "/fonts/gilroy-extrabold.woff2"); */
